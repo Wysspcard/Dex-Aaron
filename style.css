@@ -84,6 +84,20 @@
     margin-right:5px;
 }
 
+.types-pokemon-dragon{
+    padding:5px;
+    font-size:11px;
+    font-family:helvetica;
+    border-top-right-radius:15px;
+    border-bottom-right-radius:15px;
+    width:50px;
+    color:black;
+    background-color:#7759DB;
+    text-transform:uppercase;
+    display:inline-block;
+    margin-right:5px;
+}
+
 .types-pokemon-feu{
     padding:5px;
     font-size:11px;
